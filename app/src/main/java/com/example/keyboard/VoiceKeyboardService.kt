@@ -11,6 +11,7 @@ import android.view.KeyEvent
 import android.view.View
 import android.widget.Button
 import android.widget.LinearLayout
+import android.widget.TextView
 import android.widget.ScrollView
 
 data class KeyTheme(val name: String, val bg: String, val key: String, val text: String)
